@@ -35,6 +35,7 @@ https://gitee.com/asmb/Release
 
 1. android 版本
 
+下载apk后直接安装即可
 ![image](https://user-images.githubusercontent.com/9838830/184592198-1e1a4470-b24b-4376-bd18-19a6bf2ad905.png)
 
 1. ios 版本
@@ -43,9 +44,9 @@ https://gitee.com/asmb/Release
 https://github.com/asmbio/Maons
 
 #### 如何生成秘钥
-
+钱包=》下拉=添加=随机生成秘钥
 #### 如何挖矿
-
+探索=》彩蛋1
 #### 如何永久保存秘钥
 1. 导出
 2. 打印或者手抄
