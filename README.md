@@ -47,15 +47,40 @@ https://github.com/asmbio/Maons
 
 #### 如何生成私钥
 1. 钱包
-2. 下拉或者刷新按钮
+
+![image](https://user-images.githubusercontent.com/9838830/186068409-5c2f2d41-3b66-487f-be4d-6766ff215861.png)
+
+2. 下拉或者刷新按钮，进入钱包管理界面
+
+![image](https://user-images.githubusercontent.com/9838830/186068723-dba69658-9a8a-4466-a658-a68109aca527.png)
+
+
+
 3. 添加
+
+![image](https://user-images.githubusercontent.com/9838830/186068746-974fe818-c2bd-4739-a38a-397387c3ad19.png)
+
 4. 随机生成私钥
+
+![image](https://user-images.githubusercontent.com/9838830/186068777-5733b190-0f20-487b-abe4-d32c45af9070.png)
+
 5. 选择生成的私钥地址
+
+![image](https://user-images.githubusercontent.com/9838830/186068818-5a9328ed-bd41-4034-9d17-c0bdf39faa8e.png)
 
 #### 如何挖矿
 1. 探索
+
+![image](https://user-images.githubusercontent.com/9838830/186068857-86265186-0a46-43f9-bb59-efc343b353bf.png)
+
 2. 彩蛋1
+
+![image](https://user-images.githubusercontent.com/9838830/186068901-4edf66a9-cd1c-4b5a-a53d-5eacc4e0e012.png)
+
 3. 勾选自动挖矿
+
+![image](https://user-images.githubusercontent.com/9838830/186068944-190b9d30-fd9d-4726-b8ff-7c89cb8fce23.png)
+
 #### 如何永久保存私钥
 1. 钱包
 2. 下拉（进入钱包管理界面
