@@ -31,6 +31,8 @@ https://gitee.com/asmb/Release
 1. windows版本
 
 下载 windows版本 解压后 双击 Maons_0.0.17.0_x64.msix安装
+![image](https://user-images.githubusercontent.com/9838830/186052625-dccf49c7-248b-430c-814b-7f041beb2b1d.png)
+安装截图
 ![image](https://user-images.githubusercontent.com/9838830/184591530-69e7d5d4-b5fb-4b8d-9724-b91b5168ca87.png)
 
 1. android 版本
