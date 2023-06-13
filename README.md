@@ -15,17 +15,14 @@
 https://github.com/asmbio/Release
 2. gitee:
 https://gitee.com/asmb/Release
-3. 百度网盘:
-链接：https://pan.baidu.com/s/1mWb68PozAOUXfHFLSlFM2Q?pwd=9iqr 
-提取码：9iqr
 
-选择最新版本下载，文件夹包含windows版本和android的版本，如果需要ios版本可以自己下载源码编译。
+
+
 
 #### 如何安装
 1. windows版本
 
-下载 windows版本 解压后 双击 Maons_0.0.17.0_x64.msix安装
-![image](https://user-images.githubusercontent.com/9838830/186052625-dccf49c7-248b-430c-814b-7f041beb2b1d.png)
+
 安装截图
 ![image](https://user-images.githubusercontent.com/9838830/184591530-69e7d5d4-b5fb-4b8d-9724-b91b5168ca87.png)
 
